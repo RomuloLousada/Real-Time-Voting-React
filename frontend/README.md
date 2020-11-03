@@ -1,3 +1,8 @@
+# Real Time Voting - React
+
+Projeto desenvolvido em React que simula uma votação em tempo real, utilizando um backend
+criado especificamente para o aplicação. Necessário subir o backend através do npm start.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

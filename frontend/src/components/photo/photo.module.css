@@ -1,0 +1,13 @@
+.photoContainer {
+  border: 1px solid #CCCCCC;
+  border-radius: 50%;
+  height: 75px;
+  width: 75px;
+  margin: 35px 5px;
+}
+
+.photo {
+  border-radius: 50%;
+  height: 75px;
+  width: 75px;
+}
